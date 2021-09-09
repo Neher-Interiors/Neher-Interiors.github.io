@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Neher Interiors
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo.png'
 author: Giuliana Taylor
 description: Design Redefined
 
@@ -12,12 +12,12 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Engagement'
-      url: '/about/'
-    - title: 'Projects'
-      url: '/blog/'
-    - title: 'Contact'
-      url: '/contact/'
+    # - title: 'Engagement'
+    #   url: '/about/'
+    # - title: 'Projects'
+    #   url: '/blog/'
+    # - title: 'Contact'
+    #   url: '/contact/'
 
 
 #-------------------------------
