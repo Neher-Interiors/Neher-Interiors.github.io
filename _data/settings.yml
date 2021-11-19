@@ -10,14 +10,14 @@ description: Design Redefined
 # Menu Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Portfolio'
       url: '/'
-    # - title: 'Engagement'
-    #   url: '/about/'
-    # - title: 'Projects'
-    #   url: '/blog/'
-    # - title: 'Contact'
-    #   url: '/contact/'
+    - title: 'About Us'
+      url: '/about/'
+    - title: 'Our Strategy'
+      url: '/workflow/'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
@@ -95,8 +95,8 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
-  description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
+  email: xoqygrbb # Add your email for contact form
+  description: We'd love to hear from you! Let us know how we can help you make life beautiful. # Add a description of your form.
 
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
