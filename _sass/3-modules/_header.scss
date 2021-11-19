@@ -5,7 +5,7 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    padding: 60px $base-spacing-unit;
+    padding: 60px $base-spacing-unit 0 $base-spacing-unit;
   
     @media only screen and (max-width: $tablet) {
       padding: 40px $base-spacing-unit;
