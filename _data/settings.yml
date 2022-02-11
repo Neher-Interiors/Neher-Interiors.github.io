@@ -33,39 +33,39 @@ portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
     - image: /images/gallery-01.jpg
-      title: Samantha Gades
+      title: Residential Bathroom
       description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
 
     - image: /images/gallery-02.jpg
-      title: Paula Vermeulen
+      title: Residential Bathroom
       description: Gray mountain covered by mountain <a href="https://unsplash.com/photos/_f2m3mEkaaU">Unsplash</a>
 
     - image: /images/gallery-03.jpg
-      title: Bench Accounting
+      title: Corporate Bathroom
       description: White wooden table near brown chair <a href="https://unsplash.com/photos/nvzvOPQW0gc">Unsplash</a>
 
     - image: /images/gallery-04.jpg
-      title: Nord Wood
+      title: Corporate Breakout Space
       description: White ceramic mug <a href="https://unsplash.com/photos/nDd3dIkkOLo">Unsplash</a>
 
     - image: /images/gallery-05.jpg
-      title: Luca Bravo
+      title: Open Office Desk Space
       description: White ribs in a facade against a white sky <a href="https://unsplash.com/photos/alS7ewQ41M8">Unsplash</a>
 
     - image: /images/gallery-06.jpg
-      title: Isaac Benhesed
+      title: Corporate Collaboration Space
       description: Minimalist black coffee <a href="https://unsplash.com/photos/onLbXleIkds">Unsplash</a>
 
     - image: /images/gallery-07.jpg
-      title: Water Journal
+      title: Open Office Desk Space
       description: Water Journal is a bi-annual publication exploring the beauty and complexity of all things water <a href="https://unsplash.com/photos/EbuaKnSm8Zw">Unsplash</a>
 
     - image: /images/gallery-08.jpg
-      title: Luca Bravo
+      title: Corporate Ideation Space
       description: Worms eye view of city buildings <a href="https://unsplash.com/photos/a6x7YPiNxwI">Unsplash</a>
 
     - image: /images/gallery-09.jpg
-      title: Books and Laptop
+      title: Client Receiving Space
       description: Silver laptop computer with two books on the top <a href="https://unsplash.com/photos/fFIAKABImf4">Unsplash</a>
 
 
