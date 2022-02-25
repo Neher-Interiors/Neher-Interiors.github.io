@@ -5,11 +5,35 @@ permalink: /workflow/
 image: '/images/02-2.jpg'
 ---
 
-## Discovery
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu facilisis sed odio morbi quis commodo odio. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Vitae congue eu consequat ac. Morbi tempus iaculis urna id volutpat. At tellus at urna condimentum mattis. Vestibulum morbi blandit cursus risus at ultrices mi. Enim sed faucibus turpis in eu mi bibendum neque egestas. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus sed. Sed blandit libero volutpat sed cras. Id cursus metus aliquam eleifend mi in nulla posuere. Habitasse platea dictumst quisque sagittis purus.
+## What is "Lean"?
+[leanconstruction.org](https://leanconstruction.org/)
+## What is "Scrum"? 
 
-## Agile
-Aliquam etiam erat velit scelerisque in dictum non consectetur a. Et netus et malesuada fames ac turpis egestas integer. Et tortor at risus viverra adipiscing at. Adipiscing elit ut aliquam purus. Libero nunc consequat interdum varius sit amet mattis vulputate enim. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula. Dignissim convallis aenean et tortor at risus viverra. Sem nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Eros donec ac odio tempor orci dapibus. Dolor sit amet consectetur adipiscing. Mauris a diam maecenas sed enim ut sem. Pellentesque nec nam aliquam sem et tortor consequat id porta. Integer vitae justo eget magna. Convallis convallis tellus id interdum velit laoreet id. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis. Leo vel orci porta non pulvinar. Eget mauris pharetra et ultrices neque ornare aenean. Enim sit amet venenatis urna cursus eget.
+## What's in it for you? 
 
-## Cadence
-Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Ultrices sagittis orci a scelerisque purus semper eget. Risus at ultrices mi tempus imperdiet. Cras sed felis eget velit aliquet. Enim diam vulputate ut pharetra. Pharetra convallis posuere morbi leo urna. Fames ac turpis egestas maecenas pharetra convallis posuere. Pellentesque dignissim enim sit amet venenatis urna cursus eget. Rhoncus mattis rhoncus urna neque viverra justo nec. Vitae congue mauris rhoncus aenean.
+## Project Initiation
+We'll take the time to help you realize your vision. Why are you investing in this project? Who are the stakeholders of the design? Who and how do you want to use the space? Are you trying to solve a particular problem?
+
+We'll work with you to define a Project Roadmap. We'll take your high-level goals and sketch them onto a timeline which takes into account any important dates that might affect your project. 
+
+To discover your high-level goals, we'll investigate how you'll want the space to function and how you envision it serving you. 
+
+## Release Planning
+For each phase of the Project Roadmap, we'll refine your high-level goals into specific details. We call this activity "Release Planning". 
+
+## The Sprint
+Periodically, monthly or more frequently depending on the size of your project, we'll host several planning and review sessions. 
+
+### Sprint Planning
+At the start of each Sprint, we'll meet with you to talk through solutions. This might take the shape of mood boards, prototyping - for commercial projects - and testing the design. 
+
+During this time, we'll start making decisions, and you'll be presented with options for each of the goals you've defined in the Release Planning session. 
+
+### Daily Planning
+The design team meets each morning to organize a plan for the day. This planning session is available for you to join as well, offering you a great regular opportunity for transparency into the work we're doing. 
+
+### Sprint Review
+At the end of each Sprint, we'll meet with you to inspect the work that has been completed. We create space for you to provide us feedback on that work, and offer suggestions on what needs to change and which of those changes matter most.
+
+### Sprint Retrospective 
+Once a Sprint, we'll meet with you to discuss how our team is doing on your project. We'll talk about what adjustments we need to make as a team on our process. This session is an opportunity for us to serve you better and to grow as a team.
